@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Science arose from poetry... when times change the two can meet again on a higher level as friends.” — Goethe
-datePublished: '2016-05-10T15:51:17.309Z'
-dateModified: '2016-05-10T15:51:09.227Z'
+description: ''
+datePublished: '2016-05-10T16:02:35.721Z'
+dateModified: '2016-05-10T16:02:25.641Z'
 title: poetryofscience.org
 author:
   - name: ''
@@ -25,6 +25,5 @@ _type: Article
 ---
 # poetryofscience.org
 
-> Science arose from poetry... when times change the two can meet again on a higher level as friends." --- Goethe
-
+"Science arose from poetry... when times change the two can meet again on a higher level as friends." --- Goethe
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14f0ca79-b9be-4483-84ce-9f3004167d99.jpg)
