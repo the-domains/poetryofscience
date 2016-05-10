@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-10T21:51:10.686Z'
-dateModified: '2016-05-10T21:50:54.667Z'
+datePublished: '2016-05-10T21:53:48.925Z'
+dateModified: '2016-05-10T21:53:48.733Z'
 title: poetryofscience.org
 author:
   - name: ''
@@ -24,8 +24,6 @@ _type: Article
 
 ---
 # poetryofscience.org
-
-:dedicated to highlighting science-themed poetry
 
 > "Science arose from poetry... when times change the two can meet again on a higher level as friends." --- Goethe
 
