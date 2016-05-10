@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Science arose from poetry... when times change the two can meet again on a higher level as friends.” — Goethe
-datePublished: '2016-05-10T15:51:00.831Z'
-dateModified: '2016-05-10T15:50:52.535Z'
+datePublished: '2016-05-10T15:51:17.309Z'
+dateModified: '2016-05-10T15:51:09.227Z'
 title: poetryofscience.org
 author:
   - name: ''
