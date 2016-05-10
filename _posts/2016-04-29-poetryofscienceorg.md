@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-10T16:04:32.084Z'
-dateModified: '2016-05-10T16:02:38.898Z'
+datePublished: '2016-05-10T16:14:40.756Z'
+dateModified: '2016-05-10T16:14:40.525Z'
 title: poetryofscience.org
 author:
   - name: ''
