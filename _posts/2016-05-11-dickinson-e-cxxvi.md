@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'The brain is wider than the sky, '
-datePublished: '2016-05-11T13:59:15.179Z'
-dateModified: '2016-05-11T13:59:05.956Z'
+datePublished: '2016-05-11T14:03:41.483Z'
+dateModified: '2016-05-11T13:59:23.355Z'
 title: 'Dickinson, E. — CXXVI'
 author: []
+sourcePath: _posts/2016-05-11-dickinson-e-cxxvi.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-11-dickinson-e-cxxvi.md
 url: dickinson-e-cxxvi/index.html
 _type: WebPage
 
