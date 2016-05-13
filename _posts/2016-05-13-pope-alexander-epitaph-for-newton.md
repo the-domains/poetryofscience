@@ -5,10 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Nature and nature's laws lay hid in night; "
-datePublished: '2016-05-13T13:42:47.772Z'
-dateModified: '2016-05-13T13:42:08.841Z'
+datePublished: '2016-05-13T13:46:10.373Z'
+dateModified: '2016-05-13T13:45:58.090Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-13-pope-alexander-epitaph-for-newton.md
 authors: []
 publisher:
   name: null
@@ -16,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-13-pope-alexander-epitaph-for-newton.md
 url: pope-alexander-epitaph-for-newton/index.html
 _type: WebPage
 
