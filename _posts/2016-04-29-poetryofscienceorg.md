@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-13T13:43:29.999Z'
-dateModified: '2016-05-13T13:43:24.595Z'
+datePublished: '2016-05-13T13:53:06.803Z'
+dateModified: '2016-05-13T13:52:52.174Z'
 title: poetryofscience.org
 author:
   - name: ''
@@ -30,7 +30,9 @@ _type: Article
 > Featured poetry:
 > 
 > * [Dickinson, Emily --- CXXVI][0]
+> * [Pope, Alexander --- Epitaph for Sir Isaac Newton][1]
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/516b16b476a8189091f868bff5cb9932efeb2a2a.jpg)
 
 [0]: https://thegrid.ai/poetryofscience/dickinson-emily-cxxvi/
+[1]: https://thegrid.ai/poetryofscience/pope-alexander-epitaph-for-newton/
