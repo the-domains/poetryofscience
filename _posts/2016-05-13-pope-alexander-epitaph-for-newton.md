@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Nature and nature's laws lay hid in night; "
-datePublished: '2016-05-13T13:46:10.373Z'
-dateModified: '2016-05-13T13:45:58.090Z'
+datePublished: '2016-05-13T13:49:13.628Z'
+dateModified: '2016-05-13T13:49:01.985Z'
 title: ''
 author:
   - name: ''
