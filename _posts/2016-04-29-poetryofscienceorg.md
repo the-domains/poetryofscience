@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T14:57:12.763Z'
-dateModified: '2016-05-11T14:56:56.110Z'
+datePublished: '2016-05-13T13:43:29.999Z'
+dateModified: '2016-05-13T13:43:24.595Z'
 title: poetryofscience.org
 author:
   - name: ''
@@ -30,8 +30,6 @@ _type: Article
 > Featured poetry:
 > 
 > * [Dickinson, Emily --- CXXVI][0]
-> 
-> 
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/516b16b476a8189091f868bff5cb9932efeb2a2a.jpg)
 
